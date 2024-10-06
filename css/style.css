@@ -10545,11 +10545,13 @@ header {
 
 .welcome__text-block .welcome__title {
 	display: block;
-	font-weight: 500;
+	font-weight: normal;
 	font-size: 55px;
 	line-height: 120%;
 	text-transform: capitalize;
 	margin: 0px 0px 20px 0px;
+	line-height: 1.2em;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .welcome__text-block .welcome__text {
