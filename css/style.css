@@ -10577,8 +10577,8 @@ header {
 }
 
 .welcome__navigation .welcome__contact {
-	font-size: 31.6814px;
-	line-height: 36px;
+	font-size: 20.6814px;
+	line-height: 25px;
 	position: relative;
 	padding-left: 53px;
 }
@@ -10594,7 +10594,7 @@ header {
 	left: 0;
 	width: 36.43px;
 	height: 36.43px;
-	background-image: url(../img/phone-call-big.svg);
+	background-image: url("/images/phone-call-big.svg");
 }
 
 .welcome__raiting-block {
